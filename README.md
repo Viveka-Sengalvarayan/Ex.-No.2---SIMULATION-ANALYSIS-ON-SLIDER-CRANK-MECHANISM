@@ -42,7 +42,7 @@
 ![image](https://github.com/Viveka-Sengalvarayan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/input.png?raw=true)
 
 ## Output
-
+![image](https://github.com/Viveka-Sengalvarayan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/output1.png?raw=true)
 
 ### Name:
 ### Register Number: 
