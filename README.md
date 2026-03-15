@@ -39,7 +39,7 @@
 
 ##INPUT:
 
-![image]
+![image](https://github.com/Viveka-Sengalvarayan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/input.png?raw=true)
 
 ## Output
 
